@@ -5,6 +5,7 @@
 //
 let userWord =prompt("Enter a word or\nPress q to quit");
 
+// you should use a while loop here
 { if(userWord !== 'q')
     {
     userWord =prompt("Enter another word or\nPress q to quit");
